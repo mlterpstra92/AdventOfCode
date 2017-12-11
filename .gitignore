@@ -1,6 +1,4 @@
 # ignore everything
 *
-
-# except the source files and gitignore
-!.gitignore
+!*/
 !*.rs
